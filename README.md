@@ -1,4 +1,4 @@
-![Screenshot](/Screenshot.jpg?raw=true "Screenshot")
+![Screenshot](/weaponx.jpg?raw=true "Screenshot")
 
 ## What is This ?
 Auto-pilot Weapon is a Arduino based project which automatically sense the target and aims on it by sensing target motion. Code is available on GitHub.
